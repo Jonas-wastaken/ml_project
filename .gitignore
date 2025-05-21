@@ -176,3 +176,6 @@ cython_debug/
 
 # VS Code
 .vscode
+
+# MLFlow
+mlruns/*
