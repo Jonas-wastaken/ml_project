@@ -32,6 +32,7 @@ google-pasta==0.2.0
 graphene==3.4.3
 graphql-core==3.2.6
 graphql-relay==3.2.0
+graphviz==0.20.3
 grpcio==1.71.0
 gunicorn==23.0.0
 h11==0.14.0
@@ -85,6 +86,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pydantic==2.11.3
 pydantic_core==2.33.1
+pydot==4.0.0
 Pygments==2.19.1
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
